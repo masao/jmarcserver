@@ -1,0 +1,14 @@
+・もっと機能をつける。
+	Full/Brief。
+	EXPLAIN。
+
+・きちんとエラー処理をする。
+	DBNAME。
+	ELEMENT SET NAME。
+
+・もっときれいに書き直す。
+	RPNの解析。
+	検索履歴集合の扱い。
+	system(2)を使わない。
+
+・And, more ... more ... more.
